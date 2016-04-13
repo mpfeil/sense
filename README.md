@@ -1,6 +1,6 @@
 # Devseed Sense
 
-Simple dashboard that taps into the [opensensemap](http://opensensemap.org/) api to show the measurements for a specific [sensebox](www.sensebox.de/en/).
+Simple dashboard that taps into the [opensensemap](http://opensensemap.org/) api to show the measurements for a specific [sensebox](http://sensebox.de/en/).
 
 ![devseed-sense-dashboard.png](devseed-sense-dashboard.png)
 
